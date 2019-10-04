@@ -3,8 +3,8 @@
 # Written by Ben Short
 # Version 3.0, November 2014
 #
-# Released under Creative Commons BY,SA 
-# http://creativecommons.org.au/learn/licences/
+# Released under GNU GPL v3
+# https://www.gnu.org/licenses/gpl-3.0.en.html
 #
 # Script enumerates iLO devices from text file and generates 
 # CSR to be signed by a Microsoft CA Server. Resulting Certificate
