@@ -13,6 +13,9 @@ Requires:
 Assumptions:
  - User executing script has access to view reservations on DHCP Server
  - DHCP Server is at least Windows Server 2012 R2
+
+ Known Issues:
+  - Only works if reverse zone is /8, e.g. 10.in-addr-arpa, 192.in-addr-arpa
 #############################################################################>
 
 # Report on Missing Reservations, or attempt to create them (interactively)
