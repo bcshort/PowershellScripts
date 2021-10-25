@@ -10,12 +10,12 @@ Changelog
 Requires:
  - Run with highest privileges.
  - Run from NPS "Master"
- - 'archive' directory to be created within $backup_dir
+ - $backup_dir to be created on NPS slaves manually
  
 Assumptions:
- - User executing script has access has NPS Admin Access
  - DHCP Server is at least Windows Server 2012
- - $slave_share_name has appropriate file permissions
+ - Executing account has admin access on both Master and Slave NPS Servers 
+
 #############################################################################>
 # User Defined Variables
 #############################################################################
