@@ -16,6 +16,9 @@ Assumptions:
  - DHCP Server is at least Windows Server 2012
  - Executing account has admin access on both Master and Slave NPS Servers 
 
+Sections of this script have been copied/modified from:
+https://gist.github.com/Jamesits/6c742087bca908327d51ad1b3bbed5dc
+
 #############################################################################>
 # User Defined Variables
 #############################################################################

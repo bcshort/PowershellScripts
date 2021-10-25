@@ -17,3 +17,6 @@ The following is a high level description of how the script runs:
 Please note that the script has important requirements to run successfully. These are documented in the comments at the top of the script. Notably:
 * Script must be run as administrator (highest level privileges) to have access to the logs
 * $backup_dir directory MUST be created manually on NPS slave servers or the script will fail.
+
+Sections of this script have been copied/modified from:
+https://gist.github.com/Jamesits/6c742087bca908327d51ad1b3bbed5dc
